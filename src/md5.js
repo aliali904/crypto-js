@@ -16,9 +16,6 @@
         }
     }());
 
-    /**
-     * MD5 hash algorithm.
-     */
     var MD5 = C_algo.MD5 = Hasher.extend({
         _doReset: function () {
             this._hash = new WordArray.init([
