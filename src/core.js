@@ -1,8 +1,4 @@
-/*globals window, global, require*/
 
-/**
- * CryptoJS core components.
- */
 var CryptoJS = CryptoJS || (function (Math, undefined) {
 
     var crypto;
