@@ -1,4 +1,3 @@
-
 var CryptoJS = CryptoJS || (function (Math, undefined) {
 
     var crypto;
