@@ -1,5 +1,4 @@
 var CryptoJS = CryptoJS || (function (Math, undefined) {
-
     var crypto;
 
     // Native crypto from window (Browser)
